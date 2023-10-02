@@ -2,7 +2,7 @@
   <img src="https://wallpaperscave.com/images/original/18/04-25/anime-one-punch-man-44886.jpg">
 </p>
 
-# Saitama Robot
+# uchiha itachi
 
 <p align="center">
 - x -|│  “	Just some code who is a bot for fun! ”  │| - x -
@@ -11,11 +11,11 @@
 <p align="center">
 <a href="https://app.codacy.com/gh/AnimeKaizoku/SaitamaRobot?utm_source=github.com&utm_medium=referral&utm_content=AnimeKaizoku/SaitamaRobot&utm_campaign=Badge_Grade_Settings" alt="Codacy Badge">
 <img src="https://api.codacy.com/project/badge/Grade/6141417ceaf84545bab6bd671503df51" /> </a>
-<a href="https://github.com/AnimeKaizoku/SaitamaRobot" alt="Libraries.io dependency status for GitHub repo"> <img src="https://img.shields.io/librariesio/github/animekaizoku/SaitamaRobot" /> </a>
-<a href="http://hits.dwyl.com/animekaizoku/saitamarobot" alt="HitCount"> <img src="http://hits.dwyl.com/animekaizoku/saitamarobot.svg" /> </a>
+<a href="https://github.com/AnimeKaizoku/SaitamaRobot" alt="Libraries.io dependency status for GitHub repo"> <img src="https://img.shields.io/librariesio/github/Ashyui/Test" /> </a>
+<a href="http://hits.dwyl.com/animekaizoku/saitamarobot" alt="HitCount"> <img src="http://hits.dwyl.com/Ashyui/uchihaitachi.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/AnimeKaizoku/SaitamaRobot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/animekaizoku/saitamarobot?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/Ashyui/Test" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/Ashyui/Test?style=flat&logo=github&color=success" /> </a>
 <a href="https://github.com/AnimeKaizoku/SaitamaRobot" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/animekaizoku/saitamarobot" /> </a>
 <a href="https://github.com/AnimeKaizoku/SaitamaRobot/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/animekaizoku/saitamarobot?style=flat&logo=github" /> </a>
 <a href="https://github.com/AnimeKaizoku/SaitamaRobot/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/AnimeKaizoku/SaitamaRobot?label=Forks&logo=github" /> </a>
